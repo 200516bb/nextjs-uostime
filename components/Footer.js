@@ -24,6 +24,7 @@ export default function Footer() {
           padding-top: 20px;
           padding-bottom: 20px;
           border-top: 1px lightgray solid;
+          background-color: white;
         }
         a:hover {
           color: gray;

@@ -31,9 +31,7 @@ export default function Search() {
         onChange={onChangeS}
         value={selectedS}
       >
-        <option value="subject_nm" selected>
-          교과목명
-        </option>
+        <option value="subject_nm">교과목명</option>
         <option value="subject_no">교과번호</option>
         <option value="subject_div">교과구분</option>
         <option value="sub_dept">학부(과)</option>
